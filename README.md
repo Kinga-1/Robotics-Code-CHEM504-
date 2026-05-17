@@ -19,6 +19,7 @@ The sample solution is made up manually inside a 10 mL sample vial, with the fol
 - 5 mL sodium hydroxide (NaOH), 
 -  1.5 mL glucose, 
 - 15 drops of indigo carmine via pipette
+
 And sealed with a lid to limit the oxygen availability. 
 
 ## Hardware

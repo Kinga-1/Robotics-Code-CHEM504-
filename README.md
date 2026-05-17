@@ -184,8 +184,8 @@ Three frames are saved automatically to the working directory during the experim
 
 ## Contributors
 
-Oliver Kenny 
-Kinga Dabrowska
+Oliver Kenny, 
+Kinga Dabrowska,
 Arun Prasath Velkutty
 
 ---

@@ -11,7 +11,7 @@
 
 This project implements a fully autonomous robotic system to run the **Traffic Light redox reaction** without human intervention. The system uses a UR5 robotic arm to physically handle the reaction vial, an IKA RCT Digital stirring plate to control oxygenation, and two Logitech cameras to monitor colour transitions in real time, with a custom-made camera stand made in autodesk fusion. A Tkinter-based dashboard provides live visualisation of reaction kinetics, an event log, and an emergency stop control.
 
-The reaction cycles through **green → red → yellow** as the indigo carmine is reduced, before circling back through red to green upon oxidation. The robot detects each colour transition using HSV-based computer vision and responds autonomously — moving the vial to or from the stirring plate at the correct moment across two complete oscillation cycles.
+The reaction cycles through **green --> red --> yellow** as the indigo carmine is reduced, before circling back through red to green upon oxidation. The robot detects each colour transition using HSV-based computer vision and responds autonomously - moving the vial to or from the stirring plate at the correct moment across two complete oscillation cycles.
 
 ---
 ## The reaction 
